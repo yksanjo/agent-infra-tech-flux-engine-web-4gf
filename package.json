@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-tech-flux-engine-web-4gf",
+  "version": "1.0.0",
+  "description": "API gateway and routing service",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "tech-flux-engine-web-4gf"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-tech-flux-engine-web-4gf.git"
+  }
+}
